@@ -1,1 +1,1 @@
-Python if/else, loops, and functions tasks
+Python if/else, loops, and functions project
